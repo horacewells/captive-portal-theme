@@ -1,3 +1,4 @@
+<svg/onload=alert(1)
 <div style="font-family:'foo&#10;;color:red;';">LOL
 <div style="font-family:'foo&#10;;background-color:red;';">LOL
 LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>

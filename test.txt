@@ -261,6 +261,7 @@ javascript:alert("hellox worldss")
 <! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
 <% foo><x foo="%><script>alert(123)</script>">
 <div style="font-family:'foo&#10;;color:red;';">LOL
+<div style="font-family:'foo&#10;;background-color:red;';">LOL
 LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
 <script>({0:#0=alert/#0#/#0#(0)})</script>
 <svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(123)</script></svg>

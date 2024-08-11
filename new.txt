@@ -42,5 +42,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-
+<svg/onload=alert(1)
 <div style="font-family:'foo&#10;;color:red;';">

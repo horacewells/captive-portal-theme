@@ -6,4 +6,4 @@ It's just a text written to test XSS.
 
 
 
-<html style="color: red">
+<div style="font-family:'foo&#10;;color:red;';">LOL

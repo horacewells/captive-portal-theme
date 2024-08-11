@@ -6,4 +6,4 @@ It's just a text written to test XSS.
 
 
 
-<img onload=alert(1)/>
+<html style="color: red">

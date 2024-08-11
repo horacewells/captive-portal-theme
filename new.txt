@@ -43,6 +43,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-
-
-<html style="color:red">
+<div style="font-family:'foo&#10;;color:red;';">

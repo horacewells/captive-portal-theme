@@ -5,5 +5,7 @@ It's just a text written to test XSS.
 [add if you want more line]
 
 
-<img src=`xx:xx`onerror=alert(1)>
+<svg/onload=alert(1)
+
+
 <style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>

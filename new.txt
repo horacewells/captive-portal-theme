@@ -5,5 +5,5 @@ It's just a text written to test XSS.
 [add if you want more line]
 
 
-
+<body/onload=&lt;!--&gt;&#10alert(1)>
 <div style="font-family:'foo&#10;;color:red;';">LOL

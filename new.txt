@@ -44,5 +44,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-<div/onmouseover='alert(1)'> style="x:">
+
 <meta http-equiv="refresh" content="0; url=http://example.com/" />
+<html style="color:red">

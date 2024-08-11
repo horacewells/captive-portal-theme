@@ -45,5 +45,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
 <html style="color:red">

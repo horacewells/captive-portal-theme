@@ -1,9 +1,21 @@
-+++++++++++
+bla bla bla bla bla bla bla bla bla bla bla bla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 <div/onmouseover='alert(1)'> style="x:">
-
-<div style="font-family:'foo&#10;;color:red;';">LOL
-LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
+<meta http-equiv="refresh" content="0; url=https://google.com/" />

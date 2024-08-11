@@ -6,4 +6,11 @@ It's just a text written to test XSS.
 
 
 <body/onload=&lt;!--&gt;&#10alert(1)>
+
+
+
+
+
+
 <div style="font-family:'foo&#10;;color:red;';">LOL
+LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>

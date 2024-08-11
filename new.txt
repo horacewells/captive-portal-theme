@@ -1,21 +1,9 @@
-bla bla bla bla bla bla bla bla bla bla bla bla
+It's just a text written to test XSS.
 
 
 
+[add if you want more line]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div/onmouseover='alert(1)'> style="x:">
-<meta http-equiv="refresh" content="0; url=https://google.com/" />
+<img onload=alert(1)/>
